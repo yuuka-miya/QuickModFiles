@@ -1,0 +1,38 @@
+{
+    "authors": {
+        "Developer": [
+            "luacs1998",
+        ]
+    },
+    "categories": [
+        "Tech"
+    ],
+    "description": "Compact Solars, but with water mills!",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "cwm",
+    "name": "Compact WaterMills",
+    "references": {
+    },
+    "repo": "luacs1998.qmdist",
+    "uid": "org.luacs1998.cwm",
+    "references": {
+        "ic2.core": "github://02JanDal@QuickMod/IndustrialCraft2.json"
+    },
+    "updateUrl": "github://luacs1998@QuickModFiles/CompactWaterMills.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "forgeCompat": "[10.12.0.1024,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "0.7.3-IC2Exp",
+            "references": [
+            ],
+            "type": "",
+            "url": "http://minecraft.curseforge.com/mc-mods/79341-compact-watermills/files/2201779/"
+        }
+    ]
+}
