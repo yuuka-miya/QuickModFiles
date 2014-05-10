@@ -1,0 +1,17 @@
+{
+    "baseUrl": "github://luacs1998@QuickModFiles/",
+    "index": [
+        {
+            "uid": "org.luacs1998.cwm",
+            "url": "CompactWaterMills.json"
+        },
+        {
+            "uid": "org.luacs1998.sponges",
+            "url": "SpongesMod.json"
+        },
+        {
+            "uid": "com.forgeessentials.client",
+            "url": "ForgeEssentialsClient.json"
+        }
+        ]
+        }
