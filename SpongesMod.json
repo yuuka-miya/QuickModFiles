@@ -1,0 +1,48 @@
+{
+    "authors": {
+        "Developer": [
+            "luacs1998",
+        ]
+    },
+    "categories": [
+        "General"
+    ],
+    "description": "A simple sponge mod that keeps the water out",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "sponges",
+    "name": "SpongesMod",
+    "references": {
+    },
+    "repo": "luacs1998.qmdist",
+    "uid": "org.luacs1998.sponges",
+    "updateUrl": "github://luacs1998@QuickModFiles/SpongesMod.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "forgeCompat": "[10.12.0.1024,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.1.0",
+            "references": [
+            ],
+            "type": "",
+            "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/2201752/"
+        }
+        {
+            "downloadType": "parallel",
+            "forgeCompat": "[9.11.1.965,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "2.0.2",
+            "references": [
+            ],
+            "type": "",
+            "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/788829/"
+        }
+    ]
+}
