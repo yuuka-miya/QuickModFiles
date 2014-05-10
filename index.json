@@ -8,10 +8,6 @@
         {
             "uid": "org.luacs1998.sponges",
             "url": "SpongesMod.json"
-        },
-        {
-            "uid": "com.forgeessentials.client",
-            "url": "ForgeEssentialsClient.json"
         }
         ]
         }
