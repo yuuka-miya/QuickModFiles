@@ -1,0 +1,34 @@
+{
+    "authors": {
+        "Developer": [
+            "luacs1998",
+"AbrarSyed",
+"dries007",
+"Malkierian"
+        ]
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": "Client-side addon for the ForgeEssentials server mod.",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "forgeessentialsclient",
+    "name": "Forge Essentials Client Addon",
+    "repo": "luacs1998.qmdist",
+    "uid": "com.forgeessentials.client",
+    "updateUrl": "github://luacs1998@QuickModFiles/ForgeEssentialsClient.json",
+    "versions": [
+        {
+            "downloadType": "parallel",
+            "forgeCompat": "[9.11.1.965,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.3rc1",
+            "type": "",
+            "url": "http://minecraft.curseforge.com/mc-mods/74735-forge-essentials/files/2202139/download"
+        }
+    ]
+}

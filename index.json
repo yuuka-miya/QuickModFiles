@@ -5,6 +5,10 @@
             "uid": "org.luacs1998.cwm",
             "url": "CompactWaterMills.json"
         },
+	  {
+            "uid": "com.forgeessentials.client",
+            "url": "ForgeEssentialsClient.json"
+        },
         {
             "uid": "org.luacs1998.sponges",
             "url": "SpongesMod.json"
