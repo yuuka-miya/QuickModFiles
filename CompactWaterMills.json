@@ -28,7 +28,13 @@
             ],
             "name": "0.7.3-IC2Exp",
             "type": "",
-            "url": "http://minecraft.curseforge.com/mc-mods/79341-compact-watermills/files/2201779/download"
+            "urls": [
+                {
+                   "url": "http://minecraft.curseforge.com/mc-mods/79341-compact-watermills/files/2201779/download",
+
+                    "downloadType": "direct"
+                }
+            ]
         },
         {
             "downloadType": "parallel",
@@ -39,7 +45,13 @@
             ],
             "name": "0.8.0-IC2Exp",
             "type": "",
-            "url": "http://minecraft.curseforge.com/mc-mods/79341-compact-watermills/files/2203768/download"
+            "urls": [
+                {
+                   "url": "http://minecraft.curseforge.com/mc-mods/79341-compact-watermills/files/2203768/download",
+
+                    "downloadType": "direct"
+                }
+            ]
         }
     ]
 }

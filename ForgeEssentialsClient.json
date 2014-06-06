@@ -28,7 +28,13 @@
             ],
             "name": "1.3rc1",
             "type": "",
-            "url": "http://minecraft.curseforge.com/mc-mods/74735-forge-essentials/files/2202139/download"
+            "urls": [
+                {
+                   "url": "http://minecraft.curseforge.com/mc-mods/74735-forge-essentials/files/2202139/download",
+
+                    "downloadType": "direct"
+                }
+            ]
         }
     ]
 }

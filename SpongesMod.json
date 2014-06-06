@@ -29,7 +29,13 @@
             "references": [
             ],
             "type": "",
-            "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/2201752/download"
+            "urls": [
+            {
+                    "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/2201752/download",
+                    "downloadType": "direct"
+                }
+            ]
+
         },
         {
             "downloadType": "parallel",
@@ -42,7 +48,12 @@
             "references": [
             ],
             "type": "",
-            "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/788829/download"
+            "urls": [
+            {
+                    "url": "http://minecraft.curseforge.com/mc-mods/79339-spongesmod/files/788829/download",
+                    "downloadType": "direct"
+                }
+            ]
         }
     ]
 }
