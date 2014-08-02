@@ -35,6 +35,23 @@
                     "downloadType": "direct"
                 }
             ]
+        },
+{
+            "downloadType": "parallel",
+            "forgeCompat": "[9.11.1.965,)",
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "1.3.0",
+            "type": "",
+            "urls": [
+                {
+                   "url": "http://minecraft.curseforge.com/mc-mods/74735-forge-essentials/files/2206126/download",
+
+                    "downloadType": "direct"
+                }
+            ]
         }
     ]
 }
